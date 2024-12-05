@@ -6,7 +6,7 @@ int main()
     int x;
     scanf("%s", name);
 
-    printf("name woi tolol= %s", name);
+    printf("halo %s", name);
 }
 
 return 0;
