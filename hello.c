@@ -2,7 +2,10 @@
 
 int main()
 {
-    printf("Hello World");
+    char name[1001];
+    scanf("%s", name);
+
+    printf("name = %s", name);
 }
 
 return 0;
