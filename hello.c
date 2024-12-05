@@ -2,10 +2,12 @@
 
 int main()
 {
-    char name[1001];
+    char name[99];
     scanf("%s", name);
 
     printf("name = %s", name);
+
+
 }
 
 return 0;
